@@ -1,0 +1,6 @@
+# Why BSC?
+
+The dual chain architecture of BSC allows its users to effectively develop and build their own decentralized apps \(dApps\) as well as digital assets on one blockchain. This is one feature that  development team targets. Moreover, dApps built on this chain can take advantage of this fast trading platform to exchange tokens with one another. BSC is fully compatible with EVM. It also supports one of the most popular DeFi wallets, MetaMask. It includes pre-integrated pricing oracles \(such as ChainLink\), which are essential for many sorts of dApps. Switching from Ethereum to BSC has been easier than ever thanks to this degree of compatibility.
+
+Furthermore, BSC compatibility with EVM-compatible chains such as Ethereum or a faster blockchain like Solana makes it easier to list tokens on major exchanges. Ethereum transaction costs reached new heights as DeFi coins has surged in 2021. This proved a stumbling block for DeFi's expansion, discouraging widespread participation. Gas expenses on Binance Smart  \(BSC\) are over 20 times lower than those on Ethereum. As a result, the game for DeFi protocols has changed dramatically. In the same way, user interaction is encouraged through .
+
